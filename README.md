@@ -11,3 +11,9 @@ cd TestServerSetup/
 sh deployServer.sh
 ```
 
+To connect to rds db
+```
+git clone -b rds https://github.com/SmithaVerity/TestServerSetup.git
+cd TestServerSetup/
+sh deployServer.sh
+```
